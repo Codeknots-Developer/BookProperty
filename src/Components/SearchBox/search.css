@@ -1,0 +1,60 @@
+.main-search-container {
+  display: flex;
+  justify-content: center;
+}
+.searchContainer {
+  position: absolute;
+  width: 70%;
+  height: 219px;
+  background: #ffffff;
+  border-radius: 0px 16px 16px 16px;
+  top: 403px;
+}
+.search-tabs-buy {
+  position: absolute;
+  width: 10%;
+  height: 44px;
+  top: 365px;
+  left: 15%;
+  background: #3ab44e;
+  border-radius: 8px 0px 0px 0px;
+}
+.search-tabs-buy p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.05em;
+  color: #ffffff;
+}
+.search-tabs-buy button {
+  background: #3ab44e;
+}
+.search-tabs-rent {
+  position: absolute;
+  width: 10%;
+  height: 44px;
+  top: 365px;
+  left: 25%;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 0px 8px 0px 0px;
+}
+.search-tabs-rent p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.05em;
+  color: #ffffff;
+}
+.search-tabs-rent button {
+  background: rgba(0, 0, 0, 0.4);
+}
+.search-input-box {
+  background: #ffffff;
+  border: 1px solid #dadcdf;
+  box-sizing: border-box;
+  border-radius: 4px;
+}

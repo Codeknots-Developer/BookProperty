@@ -1,0 +1,86 @@
+.AgencyContainer {
+    margin: 0 auto;
+    margin: 0px 90px 100px 90px;
+    
+  }
+  img {
+    position: relative;
+    text-align: center;
+}
+  
+  .slick-slide img {
+    margin: auto;
+  }
+  
+  .slick-next:before, .slick-prev:before {
+    color: #3AB44E;
+}
+.center .slick-center img {
+    opacity: 1;
+    -ms-transform: scale(1.08);
+    transform: scale(1.1);
+    background: rgba(58, 180, 78, 0.9) !important;
+    /* Drop Card */
+    box-shadow: 0px 10px 20px rgba(168, 168, 168, 0.25);
+    border-radius: 4px;
+}
+.center img {
+    transition: all .3s ease;
+}
+
+
+.centerLM img{
+  transition: all .3s ease;
+}
+
+.centerLM .slick-center img {
+  opacity: 1;
+  -ms-transform: scale(1);
+  transform: scale(1.4,1.6);
+  margin: 10%;
+  /* Drop Card */
+  box-shadow: 0px 10px 20px rgba(168, 168, 168, 0.25);
+  border-radius: 4px;
+}
+
+.centerLM .slick-center #price{
+  top: 52%;
+}
+
+.listingType{
+  color: #838383;
+}
+
+.utilities-listing{
+  display: flex;
+  color: #3AB44E;
+}
+
+.utilities-listing-items{
+  display: flex;
+}
+
+.centerLM .slick-center #agency_center{
+  display: unset !important;
+}
+
+.css-d3wcwz-MuiTypography-root{
+  padding-top: 12px !important;
+  line-height: 0.8rem !important;
+}
+
+.blackOpcaity{
+  filter: brightness(70%)
+}
+
+.minilogo_images{
+  display: inline-flex;
+      text-align: center;
+      align-items: center;
+}
+
+
+
+.utilities-listing-period{
+  margin-left: 37px;
+}

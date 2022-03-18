@@ -1,0 +1,43 @@
+.heading-ouragencies{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.heading-subpart{
+    color: #3AB44E;
+    border-bottom: 2px solid #3AB44E;
+    padding-bottom: 5px;
+}
+
+.description-ouragencies{
+    margin-top: 16px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+
+.css-d9oaum-MuiSelect-select-MuiInputBase-input-MuiFilledInput-input {
+    text-align: left;
+    font-weight: bold !important;
+}
+.css-o943dk-MuiFormLabel-root-MuiInputLabel-root{
+    color: #3AB44E !important;
+}
+.css-o943dk-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #3AB44E !important;
+}
+
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root{
+    border-bottom: 1px solid white !important;
+}
+
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root:after {
+    border-bottom: 1px solid white !important;
+}
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root:before {
+    border-bottom: 1px solid white !important;
+}
+.css-cio0x1-MuiInputBase-root-MuiFilledInput-root.Mui-focused{
+    border-bottom: 1px solid white !important;
+}

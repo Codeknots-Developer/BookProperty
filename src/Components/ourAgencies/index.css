@@ -1,0 +1,17 @@
+.heading-ouragencies{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.heading-subpart{
+    color: #3AB44E;
+    border-bottom: 2px solid #3AB44E;
+    padding-bottom: 5px;
+}
+
+.description-ouragencies{
+    margin-top: 16px;
+    margin-bottom: 40px;
+    text-align: center;
+}

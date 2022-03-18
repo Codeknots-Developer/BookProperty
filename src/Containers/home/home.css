@@ -1,0 +1,40 @@
+.home-container {
+  margin-top: 99px;
+}
+.hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../../images/hero.png") no-repeat center center;
+  height: 670px;
+  background-size: cover;
+}
+
+.hero-heading {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 5%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 35px;
+  line-height: 60px;
+  letter-spacing: -0.05em;
+}
+
+.hero-subheading {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 60px;
+  letter-spacing: -0.05em;
+}
+
+.worldMap {
+    position: absolute;
+    width: 190.8px;
+    height: 174.6px;
+    left: 1117px;
+    top: 581px;
+}

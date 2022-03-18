@@ -1,0 +1,58 @@
+.footer {
+  background-color: #191919;
+  color: #ffff;
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  font-family: 'Montserrat';
+}
+
+.upper-section {
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heading {
+  text-transform: capitalize;
+  line-height: 24px;
+  border-bottom: 1px solid #ffff;
+  width: 95px;
+}
+
+.description {
+  width: 241px;
+  height: 119px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.address {
+  width: 258px;
+  height: 68px;
+}
+
+.houses-for-sale {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.copyrights {
+  display: flex;
+  justify-content: space-around;
+}
+.lower-contact-us i {
+  font-size: 20px;
+}
+.footerbg {
+  background: url('../../images/footerbg.png') no-repeat center ;
+  background-size: cover;
+}
