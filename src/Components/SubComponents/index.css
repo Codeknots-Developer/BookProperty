@@ -7,6 +7,10 @@
     position: relative;
     text-align: center;
 }
+
+  .slick-list{
+    padding-left: 4% !important;
+  }
   
   .slick-slide img {
     margin: auto;
